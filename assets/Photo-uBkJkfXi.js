@@ -1,0 +1,1 @@
+import{a as e}from"./index-zor9x4yq.js";function t(e,t,n=72){return e}var n=[400,640,960,1280],r=e();function i({src:e,alt:i,sizes:a,widths:o=n,priority:s=!1,...c}){return(0,r.jsx)(`img`,{src:t(e,o[Math.min(1,o.length-1)]),srcSet:void 0,sizes:a,alt:i,loading:s?`eager`:`lazy`,fetchPriority:s?`high`:`auto`,decoding:`async`,...c})}export{i as t};
